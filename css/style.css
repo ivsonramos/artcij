@@ -258,10 +258,10 @@ p {
 
 .logo {
     float: left;
-    margin-top: -20px;
+    margin-top: -24px;
 	position: relative;
 	z-index: 2;
-    width: 110px;
+    width: 105px;
     height: 110px;
 }
 
